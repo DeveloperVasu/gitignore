@@ -1,0 +1,20 @@
+//Initialize git
+git init
+
+//Add all files
+git add .
+
+//revert all files
+git rm -r cached .
+
+//Commit changes with message
+git commit -m "first commit"
+
+//Status 
+git status
+
+//logs
+git logs
+
+//add remote git
+git remote origin master(branch name).
