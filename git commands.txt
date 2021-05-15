@@ -14,7 +14,7 @@ git commit -m "first commit"
 git status
 
 //logs
-git logs
+git log
 
 //add remote git
 git remote origin master(branch name).
